@@ -1,0 +1,29 @@
+{
+  "blue": {
+    "bg": "#1e1e2e",
+    "overlay": "rgba(30, 30, 46, 0.88)",
+    "center": "#89b4fa",
+    "option": "#45475a",
+    "option_hover": "#89b4fa",
+    "text": "#cdd6f4",
+    "accent": "#89b4fa"
+  },
+  "green": {
+    "bg": "#162e1e",
+    "overlay": "rgba(22, 46, 30, 0.88)",
+    "center": "#a6e3a1",
+    "option": "#354a3e",
+    "option_hover": "#a6e3a1",
+    "text": "#d4f4cd",
+    "accent": "#a6e3a1"
+  },
+  "black": {
+    "bg": "#11111b",
+    "overlay": "rgba(17, 17, 27, 0.88)",
+    "center": "#6c7086",
+    "option": "#313244",
+    "option_hover": "#6c7086",
+    "text": "#cdd6f4",
+    "accent": "#6c7086"
+  }
+}
