@@ -1,0 +1,7 @@
+comtypes==1.4.16
+psutil==7.2.2
+pycaw==20251023
+pynput==1.8.1
+pywin32==311
+six==1.17.0
+WMI==1.5.1
